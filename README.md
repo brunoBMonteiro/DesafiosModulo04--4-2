@@ -56,6 +56,14 @@ Você tem liberdade para escolher a estilização que preferir para esse desafio
 - Utilize o `keyframes` e o `animation` para fazer uma animação do card.
 - Utilize o `box-shadow` para aplicar uma sombra no card.
 
+## Para abrir o app
+
+- Após clonar o app
+- vá ate o arquivo
+- Abra com "code ."
+- Instale os pacotes com "npm install"
+- Inicie com "npm start"
+
 ## :calendar: Entrega
 
 Esse desafio **não precisa ser entregue** e não receberá correção. Após concluí-lo, adicionar esse código ao seu Github é uma boa forma de demonstrar seus conhecimentos para oportunidades futuras.
